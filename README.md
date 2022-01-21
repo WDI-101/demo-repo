@@ -73,7 +73,7 @@ ___
 <!-- tables -->
 |Name       |Email           |
 |-----------|----------------|
-|Jone Doe   |John@email.com  |
+|John Doe   |John@email.com  |
 |Jane Doe   |Jane@email.com  |
 
 
